@@ -11,7 +11,7 @@ import javax.swing.*;
 public class Construction extends Applet implements ActionListener {
 	//@SuppressWarnings("deprecation")
 private static final long serialVersionUID = 1L;
-JButton b1;
+JButton b1 ;
 JTextField t1,t2,t3,t4;
 JLabel l1,l2,l3;
 JPanel p;
