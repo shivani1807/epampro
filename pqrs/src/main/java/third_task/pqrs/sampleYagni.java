@@ -1,6 +1,6 @@
 package third_task.pqrs;
 
-public class sampleYagni{
+public class sampleYagni {
 
 		public void extraclasss() {
 
